@@ -2,8 +2,6 @@ package ItauChallenge.example.workoutchallenge.dto;
 
 import java.util.DoubleSummaryStatistics;
 
-import org.springframework.scripting.support.StaticScriptSource;
-
 public class StatisticsResponse {
     
     private long count;
